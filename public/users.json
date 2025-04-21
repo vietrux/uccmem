@@ -1,0 +1,338 @@
+[
+    {
+        "uid": "0001",
+        "displayName": "Đỗ Nhật Thành",
+        "job_title": "Research and Development",
+        "email": "donhatthanh1805@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0002",
+        "displayName": "Võ Hồng Quang",
+        "job_title": "Research and Development",
+        "email": "hongquang2k4@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0003",
+        "displayName": "Lê Việt Trung",
+        "job_title": "Research and Development",
+        "email": "leviettrung.social@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0004",
+        "displayName": "Trần Quốc Lân",
+        "job_title": "Research and Development",
+        "email": "quoclan9@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0005",
+        "displayName": "Vũ Nhật Anh",
+        "job_title": "Research and Development",
+        "email": "vuanh0944@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0006",
+        "displayName": "Nguyễn Quốc Khánh",
+        "job_title": "Research and Development",
+        "email": "khanhnq.22ba13173@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0007",
+        "displayName": "Trần Anh Quốc",
+        "job_title": "Research and Development",
+        "email": "social.taquoc@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0008",
+        "displayName": "Nguyễn Phạm Trường An",
+        "job_title": "Research and Development",
+        "email": "annpt.23bi14004@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0009",
+        "displayName": "Trần Hải Đăng",
+        "job_title": "Research and Development",
+        "email": "haidang5750@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0010",
+        "displayName": "Nguyễn Đinh Huyền Mai",
+        "job_title": "Research and Development",
+        "email": "MaiNDH.23BA14186@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0011",
+        "displayName": "Nguyễn Ngọc Hiếu",
+        "job_title": "Research and Development",
+        "email": "ngochieu1762005@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0012",
+        "displayName": "Nguyễn Minh Tuấn",
+        "job_title": "Research and Development",
+        "email": "tuannm.23bi14441@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0013",
+        "displayName": "Nguyễn Minh Hiếu",
+        "job_title": "Research and Development",
+        "email": "Hieuhlz9000@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0014",
+        "displayName": "Bùi Quang Huy",
+        "job_title": "Research and Development",
+        "email": "huybui03082004@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0015",
+        "displayName": "Nguyễn Đức Minh",
+        "job_title": "Research and Development",
+        "email": "",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0016",
+        "displayName": "Trần Nguyễn Hoàng Anh",
+        "job_title": "Research and Development",
+        "email": "",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0017",
+        "displayName": "Vũ Quang Thành",
+        "job_title": "Research and Development",
+        "email": "vuquangthanh0609@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0018",
+        "displayName": "Nguyễn Tiến Duy",
+        "job_title": "Research and Development",
+        "email": "duy25115@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0019",
+        "displayName": "Nguyễn Minh Cương",
+        "job_title": "Research and Development",
+        "email": "cuongnm.23bi14467@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0020",
+        "displayName": "Nguyễn Hữu Dũng",
+        "job_title": "Research and Development",
+        "email": "dungnh2410234@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0021",
+        "displayName": "Nguyễn Văn Độ",
+        "job_title": "Research and Development",
+        "email": "donv2411134@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0022",
+        "displayName": "Nguyễn Minh Hoàng",
+        "job_title": "Research and Development",
+        "email": "hoangnm2410315@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0023",
+        "displayName": "Đặng Quang Minh",
+        "job_title": "Research and Development",
+        "email": "minhdq.23bi14304@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0024",
+        "displayName": "Chu Ngọc Minh Khôi",
+        "job_title": "Research and Development",
+        "email": "khoicnm2410478@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0025",
+        "displayName": "Lưu Minh Quang",
+        "job_title": "Research and Development",
+        "email": "quanglm2410818@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0026",
+        "displayName": "Trần Khoa Nam",
+        "job_title": "Research and Development",
+        "email": "namtk2410702@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0027",
+        "displayName": "Hoàng Viết Đức",
+        "job_title": "Research and Development",
+        "email": "duchv2411137@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0028",
+        "displayName": "Nguyễn Đức Mạnh",
+        "job_title": "Research and Development",
+        "email": "manhnd.23ba14188@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0029",
+        "displayName": "Đào Nguyễn Anh Tuấn",
+        "job_title": "Research and Development",
+        "email": "tuandna2411013@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0030",
+        "displayName": "Lê Thị Cẩm Giang",
+        "job_title": "Human Resources",
+        "email": "legiang3704@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0031",
+        "displayName": "Phan Nam Anh",
+        "job_title": "Human Resources",
+        "email": "anhpn2410076@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0032",
+        "displayName": "Nguyễn Mạnh Đức",
+        "job_title": "Human Resources",
+        "email": "ringamer2308@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0033",
+        "displayName": "Nguyễn Minh Đạt",
+        "job_title": "Human Resources",
+        "email": "datnm.23bi14089@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0034",
+        "displayName": "Vu Lan Anh",
+        "job_title": "Human Resources",
+        "email": "",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0035",
+        "displayName": "Đỗ Minh Tiến",
+        "job_title": "Human Resources",
+        "email": "dotienminh474@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0036",
+        "displayName": "Phạm Đức Anh",
+        "job_title": "Human Resources",
+        "email": "anhpd2410088@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0037",
+        "displayName": "Phạm Nguyễn Tiến Long",
+        "job_title": "Human Resources",
+        "email": "longpnt2410549@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0038",
+        "displayName": "Nguyễn Lâm Tùng",
+        "job_title": "Finance",
+        "email": "tungnl.23bi14446@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0039",
+        "displayName": "Nguyễn Thị Ngọc Lan",
+        "job_title": "Finance",
+        "email": "lanntn.22ba13186@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0040",
+        "displayName": "Dương Thị Thuỳ Trang",
+        "job_title": "Marketing",
+        "email": "saltiestlife123@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0041",
+        "displayName": "Trần Thục Anh",
+        "job_title": "Marketing",
+        "email": "anhtt.23bi14030@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0042",
+        "displayName": "Nguyễn Thúy Ngọc",
+        "job_title": "Marketing",
+        "email": "ngoclie1505@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0043",
+        "displayName": "Nguyễn Trọng Bách",
+        "job_title": "Marketing",
+        "email": "nguyentrongbach2301@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0044",
+        "displayName": "Trần Thượng Nam Anh",
+        "job_title": "Marketing",
+        "email": "namanhvip118@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0045",
+        "displayName": "Lương Quỳnh Anh",
+        "job_title": "Marketing",
+        "email": "anhlq.23BA14008@usth.edu.vn",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0046",
+        "displayName": "Trần Đức Tuấn",
+        "job_title": "Research and Development",
+        "email": "Tranductuan247@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0047",
+        "displayName": "Lê Vũ Hoàng Linh",
+        "job_title": "Research and Development",
+        "email": "levuhoanglinh2k3@gmail.com",
+        "aboutMe": ""
+    },
+    {
+        "uid": "0048",
+        "displayName": "Vũ Thế Khôi Nguyên",
+        "job_title": "Marketing",
+        "email": "nguyenvtk.22bi13344@usth.edu.vn",
+        "aboutMe": ""
+    }
+]
